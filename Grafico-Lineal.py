@@ -1,4 +1,3 @@
-from turtle import color
 import matplotlib.pyplot as plt
 
 #Años y población de España 2016-2020
